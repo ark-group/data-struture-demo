@@ -8,6 +8,8 @@ public class DatastructureApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DatastructureApplication.class, args);
+
+		System.out.println("welcome to ark group");
 	}
 
 }
